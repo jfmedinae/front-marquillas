@@ -1,0 +1,30 @@
+body {
+    font-family: Poppins, sans-serif;
+    background-color: #181818;
+    color: #fff;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+.card {
+    background-color: #26272C;
+    border-radius: 24px;
+}
+
+table {
+    border-color: #636363 !important;
+}
+
+.form-control {
+    background-color: #26272C;
+    color: #fff;
+    border: 1px solid #636363;
+    margin-bottom: 16px;
+}
+
+.form-control:focus {
+    background-color: #26272C;
+    color: #fff;
+}
